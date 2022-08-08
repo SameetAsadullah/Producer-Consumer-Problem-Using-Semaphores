@@ -6,7 +6,7 @@ A simple `C++ Program` to solve `Producer Consumer Problem` using `Threads and S
 ### Manual
 1) Use the following command to `Compile the code`:
     ```
-    g++ main.cpp
+    g++ -pthread -o a.out main.cpp
     ```
     
 2) Use following commands to `Run the Code`:
